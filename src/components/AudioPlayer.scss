@@ -1,0 +1,22 @@
+.audio-timeline {
+  width: 300px;
+  height: 10px;
+  border-radius: 15px;
+  background: rgb(206, 206, 206);
+  margin-bottom: 16px;
+
+  .audio-handle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-top: 1px;
+    background: black;
+  }
+
+  span {
+    color: black;
+    float: right;
+    font-size: 0.8rem;
+    margin-top: 5px;
+  }
+}
